@@ -44,11 +44,6 @@ This section provides additional information and resources that can help you und
 - [@KrishnaBandaru](https://www.github.com/octokatherine)
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -64,12 +59,7 @@ Insert gif or link to demo
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[Documentation](https://github.com/krishna-bbsm/Automated_Attendance_System/blob/main/README.md)
 
 
 ## License
