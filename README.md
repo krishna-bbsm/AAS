@@ -4,10 +4,15 @@ The Automated Attendance System is an innovative application that leverages the 
 
 # Key Features
 Face Detection: Utilizes OpenCV's Haar Cascade classifier for efficient and accurate face detection.
+
 Face Recognition: Employs a pre-trained model (VGGFace) for robust face recognition.
+
 Automated Attendance: Marks attendance with a timestamp in an Excel sheet automatically.
+
 Multi-Face Handling: Capable of detecting and recognizing multiple faces in a single image.
+
 Versatile Recognition: Can recognize both frontal and profile faces.
+
 Usage
 Environment Setup: Run the code in a Python environment. The code is compatible with Google Colab.
 Image Collection: The system will automatically mount your Google Drive and set up the working directory. It will then collect images from the specified directory and extract faces from them.
