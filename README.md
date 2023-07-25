@@ -59,6 +59,7 @@ This section provides additional information and resources that can help you und
 
 ## Screenshots
 
+[Output](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/main/output_image.jpg)
 
 ## Documentation
 
