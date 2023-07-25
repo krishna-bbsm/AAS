@@ -50,7 +50,7 @@ This section provides additional information and resources that can help you und
 
 ![Detected faces](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/3ba1426a26e5f232e3907f44f85286ec9266d78a/output_image.jpg)
 
-![Attendace Sheet](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/main/data.xlsx)
+![Attendace Sheet](Attendance_Sheet.xlsx)
 
 ## License
 
