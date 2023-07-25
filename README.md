@@ -48,10 +48,10 @@ This section provides additional information and resources that can help you und
 
 ## Screenshots
 
-![Output](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/3ba1426a26e5f232e3907f44f85286ec9266d78a/output_image.jpg)
+[Output](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/3ba1426a26e5f232e3907f44f85286ec9266d78a/output_image.jpg)
 
 ## Attendance Sheet
-![Attendance](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/63ddc5dfbdbe31996b5f5d95046dd9bc623e14a2/data.xlsx)
+[Attendance](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/63ddc5dfbdbe31996b5f5d95046dd9bc623e14a2/data.xlsx)
 
 
 ## License
