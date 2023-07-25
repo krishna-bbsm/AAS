@@ -46,13 +46,11 @@ This section provides additional information and resources that can help you und
 - Versatile Recognition (Can recognize both frontal and profile faces)
 - Automated Attendance Marking (Marks attendance with a timestamp in an Excel sheet automatically.)
 
-## Screenshots
+## Output
 
-[Output](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/3ba1426a26e5f232e3907f44f85286ec9266d78a/output_image.jpg)
+![Detected faces](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/3ba1426a26e5f232e3907f44f85286ec9266d78a/output_image.jpg)
 
-## Attendance Sheet
-[Attendance](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/63ddc5dfbdbe31996b5f5d95046dd9bc623e14a2/data.xlsx)
-
+![Attendace Sheet](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/main/data.xlsx)
 
 ## License
 
