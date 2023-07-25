@@ -57,6 +57,9 @@ This section provides additional information and resources that can help you und
 - Versatile Recognition (Can recognize both frontal and profile faces)
 - Automated Attendance Marking (Marks attendance with a timestamp in an Excel sheet automatically.)
 
+## Screenshots
+
+
 ## Documentation
 
 [Documentation](https://github.com/krishna-bbsm/Automated_Attendance_System/blob/main/README.md)
