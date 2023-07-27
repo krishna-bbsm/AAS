@@ -53,7 +53,6 @@ This section provides additional information and resources that can help you und
 
 [Download Attendace Sheet](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/main/Attendance_Sheet.xlsx)
 
-![Attendace Sheet](Attendance_Sheet.xlsx)
 
 ## Built
 
