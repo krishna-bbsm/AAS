@@ -52,14 +52,13 @@ This section provides additional information and resources that can help you und
 
 ![Attendace Sheet](Attendance_Sheet.xlsx)
 
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 ## Built
 
 [![Code: Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](https://shields.io/)
 
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Development Environment
 
