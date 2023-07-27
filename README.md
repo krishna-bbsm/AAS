@@ -73,6 +73,10 @@ This project is developed and run in Google Colab, a cloud-based Jupyter noteboo
 
 ## Badges
 
+## Badges
+
+[![Code: Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](https://shields.io/)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
