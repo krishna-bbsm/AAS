@@ -1,7 +1,6 @@
 # Deep Learning-Based Attendance Tracking System
 # Description
-The Deep Learning-Based Attendance Tracking System leverages the power of Deep learning and computer vision to automate the process of attendance marking.The system uses transfer learning techniques. It utilizes a pre-trained model for face recognition and OpenCV for face detection, offering the capability to detect and recognize multiple faces in an image. The recognized faces are then cross-referenced with an existing database, and the attendance is marked with a timestamp in an Excel sheet.
-
+The Deep Learning-Based Attendance Tracking System leverages the power of Deep learning, computer vision and one-shot learning method for recognizing individuals from a single sample image and automates the process of attendance marking.The system uses transfer learning by building the model upon the pre-trained VGGFace model, extending its capabilities to suit the specific needs of an attendance system, offering the capability to detect and recognize multiple faces in an image. The recognized faces are then cross-referenced with an existing database, and the attendance is marked with a timestamp in an Excel sheet.
 
 # Dependencies
 - OpenCV
@@ -49,6 +48,7 @@ This section provides additional information and resources that can help you und
 ## Output
 
 ![Detected faces](https://github.com/krishna-bbsm/Deep-Learning-Based-Attendance-Tracking-System/blob/3ba1426a26e5f232e3907f44f85286ec9266d78a/output_image.jpg)
+
 
 ![Attendace Sheet](Attendance_Sheet.xlsx)
 
